@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Haider Ali</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+        Hi, my name is Haider Ali,
+        \n\nI love making Android apps. That\'s why I am doing a course
+        on Udacity - Developing Android Apps with Kotlin.
+        \n\nBesides coding I love singing and hanging out with my friends.
+        \n\nThe name of my College is Zakir Hussain College of Engineering
+        and Technology, AMU. I am a Undergrad student there.
+        \n\nThe main area of my study is Electronics and Communication
+        Engineering.
+        \n\nSo that was about my education background.
+        \n\nI live in a city in India named as Aligarh,which is mostly
+        famous for its locks industries.
+        \n\n I have one brother and 3 sisters. My brother does programming
+        in php, and he is currently doing a diploma in Computer Engineering
+        from AMU, which will be completed in the year 2020.
+        \n\nMy youngest sister has completed her masters in political science
+        after which she has applied for phd and bed courses. Her attempts were unsuccessful.
+        This year she has applied for NET exam also.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
